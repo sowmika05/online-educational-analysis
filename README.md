@@ -111,7 +111,7 @@ Recommended screenshots:
 2. **Student Performance & Engagement Analysis**
 3. **Risk, Dropout & Demographic Analysis**
 
-Example :
+Example :[Dashboard Preview](https://github.com/sowmika05/online-educational-analysis/blob/main/Screenshot%202026-09-22%20065856.png)
 
 ```markdown
 ## 📸 Dashboard Screenshots
